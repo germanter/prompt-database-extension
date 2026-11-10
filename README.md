@@ -1,4 +1,4 @@
-[Download the latest release](https://github.com/germanter/prompt-database-extension/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/germanter/prompt-database-extension?color=blue&label=Download%20Latest%20Release)](https://github.com/germanter/prompt-database-extension/releases/latest)
 
 # Prompt Database Extension
 
