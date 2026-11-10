@@ -54,8 +54,6 @@ Importing adds new prompts and updates records with matching IDs. It doesn't wip
 
 ## Versions
 
-The current extension version is **v1.0.1**.
-
 Each prompt also keeps the version it was created with:
 
 - Older v1.0.0 prompts still show **Prompt v1.0.0** after importing.

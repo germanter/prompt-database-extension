@@ -1,14 +1,14 @@
 {
   "manifest_version": 3,
-  "name": "Prompt Database v1.0.1",
-  "version": "1.0.1",
+  "name": "Prompt Database v1.0.2",
+  "version": "1.0.2",
   "description": "Your offline prompt database in a toolbar popup.",
   "permissions": [
     "clipboardWrite",
     "unlimitedStorage"
   ],
   "action": {
-    "default_title": "Open Prompt Database v1.0.1",
+    "default_title": "Open Prompt Database v1.0.2",
     "default_popup": "app.html"
   },
   "icons": {
@@ -20,5 +20,5 @@
   "content_security_policy": {
     "extension_pages": "script-src 'self'; object-src 'self';"
   },
-  "version_name": "v1.0.1"
+  "version_name": "v1.0.2"
 }

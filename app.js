@@ -1,6 +1,6 @@
 
 'use strict';
-const current_version = 'v1.0.1';
+const current_version = 'v1.0.2';
 const SIGNATURE = 'prompt-database';
 const DEFAULTS = Object.freeze({contentColor:'#f5f5f5',bgColor:'#1e1e1e',sortBy:'createdAt',sortDirection:'desc'});
 // Lucide icons, embedded locally so this single HTML also works offline. ISC license: https://lucide.dev/license
